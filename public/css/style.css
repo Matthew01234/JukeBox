@@ -1,0 +1,9 @@
+body{
+
+}
+nav>ul{
+    padding:0;
+}
+nav>ul>li{
+    display:inline-block;
+}
